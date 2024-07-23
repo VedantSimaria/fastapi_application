@@ -10,3 +10,6 @@ Requirements:
 
 
 Unfortunately, I lack the necessary knowledge to finish Parts 2 and 3. I have worked with Fastapi and MySQL, and each component required the use of MongoDB, which prevented me from finishing the assignment as a whole.
+
+
+Before executing the code, be sure you read the other file named "Readme.txt".
